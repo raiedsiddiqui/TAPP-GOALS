@@ -1,4 +1,4 @@
-TAPP
+TAP-GOALS
 ====
 
 The Tapestry thing.
